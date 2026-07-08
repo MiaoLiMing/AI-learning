@@ -1,2 +1,44 @@
 # AI-learning
-ai知识点记录和学习规划
+
+面向 Vue + Node + TypeScript 前端开发者的 AI 应用开发转型计划。
+
+目标不是转算法研究，而是在 12 周内转向更适合中小企业岗位的方向：
+
+- AI 应用全栈开发工程师
+- 大模型应用开发工程师
+- RAG / Agent 工程师
+- 企业 AI 工具 / 智能客服 / 知识库 / Copilot 开发工程师
+
+## 怎么使用这个目录
+
+建议按下面顺序阅读和执行：
+
+1. [整体转型规划](./docs/00-overview.md)
+2. [能力地图与岗位要求](./docs/01-skill-map.md)
+3. [12 周学习路线](./weeks/README.md)
+4. [项目作品集规划](./projects/README.md)
+5. [每日执行模板](./templates/daily-log.md)
+6. [面试与简历准备](./docs/02-interview-and-resume.md)
+
+## 每周投入建议
+
+- 工作日：每天 60-90 分钟
+- 周末：4-6 小时
+- 每周总投入：8-12 小时
+
+核心原则：少看课，多做项目；少追概念，多做可运行、可部署、可讲清楚的系统。
+
+## 12 周最终产出
+
+你应该完成至少 2 个可展示项目：
+
+1. 企业知识库 RAG 系统
+2. 业务 Agent 自动化平台
+
+加分产出：
+
+3. AI 工作台 / Prompt 调试台 / 成本监控后台
+
+最终简历定位：
+
+> AI 应用全栈开发工程师，熟悉 Vue/TypeScript/Node，具备 FastAPI、LLM API、RAG、Agent、向量数据库和 Docker 部署经验。
