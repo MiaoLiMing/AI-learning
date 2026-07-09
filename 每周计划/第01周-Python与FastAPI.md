@@ -14,14 +14,14 @@
 
 ## 任务总览
 
-| 时间 | 任务 | 产出 | 记录重点 |
-| --- | --- | --- | --- |
-| Day 1 | Python 环境与项目结构 | `ai-chat-api` 空项目 | venv、pip、目录结构 |
-| Day 2 | FastAPI 最小服务 | `/health`、`/api/chat` | 路由、Pydantic、Swagger |
-| Day 3 | 模型 API 调用 | `LLMClient` | API Key、请求结构、错误处理 |
-| Day 4 | 单轮对话接口 | 可返回模型回答 | messages、system prompt、temperature |
-| Day 5 | 多轮对话与日志 | 对话历史、耗时日志 | 上下文、日志、异常 |
-| 周末 | 整理与复盘 | README、接口示例 | 面试表达、问题清单 |
+| 时间    | 任务             | 产出                    | 记录重点                               |
+| ----- | -------------- | --------------------- | ---------------------------------- |
+| Day 1 | Python 环境与项目结构 | `ai-chat-api` 空项目     | venv、pip、目录结构                      |
+| Day 2 | FastAPI 最小服务   | `/health`、`/api/chat` | 路由、Pydantic、Swagger                |
+| Day 3 | 模型 API 调用      | `LLMClient`           | API Key、请求结构、错误处理                  |
+| Day 4 | 单轮对话接口         | 可返回模型回答               | messages、system prompt、temperature |
+| Day 5 | 多轮对话与日志        | 对话历史、耗时日志             | 上下文、日志、异常                          |
+| 周末    | 整理与复盘          | README、接口示例           | 面试表达、问题清单                          |
 
 ## 每日任务卡
 
